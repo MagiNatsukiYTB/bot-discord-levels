@@ -9,7 +9,7 @@
 # Activity
 
 <img src="https://cdn.discordapp.com/attachments/954564982031401040/960098557162029056/unknown.png"></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
 <img src="https://cdn.discordapp.com/attachments/954564982031401040/960099194826272859/unknown.png"></a>
 
 # All the programming that I learned
