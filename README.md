@@ -6,10 +6,12 @@
 - 🔭 I’m currently working on  **MinerMagicBot** (Discord Bot)
 - 🌱 I’m currently learning  **JavaSrcipt, HTML, CSS, Python**
 
-# Activity
+# Level For Me
 
 <img src="https://cdn.discordapp.com/attachments/954564982031401040/960098557162029056/unknown.png"></a>
-<br>
+
+# Level for myfriend
+
 <img src="https://cdn.discordapp.com/attachments/954564982031401040/960099194826272859/unknown.png"></a>
 
 # All the programming that I learned
